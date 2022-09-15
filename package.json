@@ -12,6 +12,10 @@
 		"type": "git",
 		"url": "git+https://github.com/basir/mern-amazona.git"
 	},
+	"engines": {
+		"npm": ">=7.0.0",
+		"node": ">=16.0.0"
+	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
